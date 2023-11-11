@@ -1,7 +1,7 @@
 docker run --name back \
  -e MARIADB_RANDOM_ROOT_PASSWORD=yes \
- -e MARIADB_USER=user \
- -e MARIADB_DATABASE=xxxxx \
- -e MARIADB_PASSWORD=xxxxxxxxx \
+ -e MARIADB_USER=viceek \
+ -e MARIADB_DATABASE=juntos \
+ -e MARIADB_PASSWORD=12345 \
  -p 3306:3306 \
  -d mariadb:10.10
