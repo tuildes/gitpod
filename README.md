@@ -4,10 +4,11 @@
 
 ## Pastas:
 
-* back-ecomp: pasta de .sh para rodar o back-end laravel da Ecomp
+-   back-ecomp: pasta de .sh para rodar o back-end laravel da Ecomp
+-   vs-config: pasta de arquivos para configs rapidos do vscode
 
 ---
 
-![20231101_175451](https://hackmd.io/_uploads/SyIUgFPUp.jpg)
+![Caçadora do Hora de Aventura](https://hackmd.io/_uploads/SyIUgFPUp.jpg)
 
 ---
